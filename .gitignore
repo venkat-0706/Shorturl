@@ -1,0 +1,20 @@
+# Ignore node_modules (if any future backend is added)
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Env files (if used in the future)
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build/Deployment artifacts
+dist/
+build/
